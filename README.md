@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Joël Lesenne</h1>
 <h2 align="center">A passionate frontend developer from French</h2>
 
-- 🔭 I’m currently working on [Personal website](https://joellesenne.dev)
+- 💻 I'm currently working on my personal website at [https://joellesenne.dev](https://joellesenne.dev)
 
-- 🌱 I’m currently learning **Frameworks, JS, TS, CSS, HTML and SEO**
+- 🌱 I'm learning **Frameworks,  JavaScript, TypeScript, CSS, HTML and SEO**
 
-- 👯 I’m looking lab [Funny code](https://lab.joellesenne.dev)
+- 👯 You can also view my lab at Funny Code at [https://lab.joellesenne.dev](https://lab.joellesenne.dev)
 
-- 🤝 I’m looking photography [Gallery photos (beta)](https://photos.joellesenne.dev)
+- 📸 And my current photo gallery at [https://photos.joellesenne.dev](https://photos.joellesenne.dev)
 
 - 👨‍💻 All of my projects are available at [https://joellesenne.dev](https://joellesenne.dev)
 
-- 📝 I regularly write articles on [https://joellesenne.dev/blog](https://joellesenne.dev/blog)
+- 📝 And I regularly post new articles in my blog at [https://joellesenne.dev/blog](https://joellesenne.dev/blog)
 
-- 💬 Ask me about **React, JS, TS and CSS**
+- 💬 If you want to ask me something about **React, JS, TS or CSS**
 
-- 📫 How to reach me **contact@joellesenne.dev**
+- 📫 Feel free to contact me at **contact@joellesenne.dev**
 
-- 📄 Know about my experiences [https://cv.joellesenne.dev](https://cv.joellesenne.dev)
+- 📄 To know about my experiences, check out my CV at [https://cv.joellesenne.dev](https://cv.joellesenne.dev)
 
 - ⚡ Fun fact **I think I m funny**
 
