@@ -9,9 +9,9 @@
 
 - 📸 And my current photo gallery at [https://photos.joellesenne.dev](https://photos.joellesenne.dev)
 
-- 👨‍💻 All of my projects are available at [https://joellesenne.dev](https://joellesenne.dev)
+- 👨‍💻 All of my projects are available at [https://projects.joellesenne.dev](https://projects.joellesenne.dev)
 
-- 📝 And I regularly post new articles in my blog at [https://joellesenne.dev/blog](https://joellesenne.dev/blog)
+- 📝 And I regularly post new articles in my blog at [https://blog.joellesenne.dev/](https://blog.joellesenne.dev/)
 
 - 💬 If you want to ask me something about **React, JS, TS or CSS**
 
